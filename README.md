@@ -38,3 +38,7 @@ Use `poetry` to create `automation` project.
 ```
 
 Use the folder created by Poetry as the root of your project’s git repository.
+
+**Phone number Regualr expression used from https://www.oreilly.com/library/view/regular-expressions-cookbook/9781449327453/ch04s02.html**
+
+**Email regualr expresion used from**
